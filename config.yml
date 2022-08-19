@@ -1,0 +1,22 @@
+API_ID: 
+API_HASH: 
+BOT_TOKEN: 
+
+
+MONGO_URL: 
+REDIS_URI:
+REDIS_PORT:
+REDIS_PASS:
+
+SESSION_API_ID: 
+SESSION_API_HASH: 
+SESSION_STRING: 
+
+
+BOT_PIC: https://te.legra.ph/file/a44cc6ec55eeafec0c558.jpg
+OWNER_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
+
+
+SUPPORT_CHAT: roldexversechats 
+
+
